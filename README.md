@@ -1,5 +1,5 @@
 ![Cover Image](/Assets/Cover_Image.jpg)
-# Statistics for Machine Learning Analysis Project - TEAM 3
+# Mathematics & Statistics for Machine learning - (Experential Learning) - TEAM 3
 
 This repository contains a statistical analysis of the relationship between students' study hours and their academic performance (marks). The analysis follows a structured approach addressing 15 key statistical concepts and techniques.
 
