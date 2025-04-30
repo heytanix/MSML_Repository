@@ -19,7 +19,13 @@ The code utilizes several Python libraries for statistical analysis and data vis
 - **SciPy**: Implements various statistical functions and tests
 - **Statsmodels**: Offers classes and functions for statistical models and hypothesis testing
 - **Scikit-learn**: Provides machine learning algorithms for regression analysis and evaluation metrics
-![NumPy Logo](/Assets/NumPyLogo.png) ![Pandas Logo](/Assets/PandasLogo.png) ![Matplotlib Logo](/Assets/MatplotlibLogo.png) ![Seaborn Logo](/Assets/SeabornLogo.png) ![SciPy Logo](/Assets/SciPyLogo.jpg) ![Statsmodels Logo](/Assets/StatsmodelsLogo.jpeg) ![Scikit-learn Logo](/Assets/scikitlearnLogo.jpeg)
+<img src="/Assets/NumPyLogo.png" alt="NumPy Logo" width="150">
+<img src="/Assets/PandasLogo.png" alt="Pandas Logo" width="150">
+<img src="/Assets/MatplotlibLogo.png" alt="Matplotlib Logo" width="150">
+<img src="/Assets/SeabornLogo.png" alt="Seaborn Logo" width="150">
+<img src="/Assets/SciPyLogo.jpg" alt="SciPy Logo" width="150">
+<img src="/Assets/StatsmodelsLogo.jpeg" alt="Statsmodels Logo" width="150">
+<img src="/Assets/scikitlearnLogo.jpeg" alt="Scikit-learn Logo" width="150">
 
 ## Analysis Questions
 
