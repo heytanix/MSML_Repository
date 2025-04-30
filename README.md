@@ -133,6 +133,10 @@ Evaluates the significance of the regression slope:
 - Tests if the slope coefficient differs significantly from zero
 - Interprets the p-value for the regression slope
 
+## Present Case outputs
+![Regression Lines](/OutputImages/regression_lines.png)
+![Sampling Distribution](/OutputImages/sampling_distribution.png)
+![Study Hours vs Marks](/OutputImages/study_hours_vs_marks.png)
 ## Output Files
 
 ### 1. sampling_distribution.png
