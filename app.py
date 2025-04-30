@@ -451,7 +451,7 @@ def generate_report():
     Note: All plots have been saved as PNG files in the working directory.
     """
     
-    with open('analysis_report.txt', 'w') as f:
+    with open("report.txt", "w", encoding="utf-8") as f:
         f.write(report)
     
     return report
