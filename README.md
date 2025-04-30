@@ -134,8 +134,11 @@ Evaluates the significance of the regression slope:
 - Interprets the p-value for the regression slope
 
 ## Present Case outputs
+- Regression Lines
 ![Regression Lines](/OutputImages/regression_lines.png)
+- Sampling Distributions
 ![Sampling Distribution](/OutputImages/sampling_distribution.png)
+- Study Hours vs Marks
 ![Study Hours vs Marks](/OutputImages/study_hours_vs_marks.png)
 ## Output Files
 
