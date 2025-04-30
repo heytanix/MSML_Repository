@@ -1,0 +1,61 @@
+
+    MATHEMATICS & STATISTICS FOR MACHINE LEARNING - ANALYSIS REPORT
+    ==============================================================
+    
+    Team: Team 3
+    Sample Size: 41
+    
+    1. Sample Size Calculation:
+       - Calculated sample size (n): 41
+       - Used formula: n0 = (z * σ / E)^2 with finite population correction
+       - Parameters: z=1.96 (95% CI), σ=10, E=3, N=979
+    
+    2. Sampling Method:
+       - Used simple random sampling
+       - Sample size: 41 records
+    
+    3. Descriptive Statistics:
+       - Sample Mean (marks): 76.76
+       - Sample Standard Deviation: 8.77
+       - Population Mean: 77.38
+       - Population Standard Deviation: 9.86
+    
+    4. Sampling Distribution:
+       - Mean of sampling distribution: 77.44
+       - Standard Error (SE): 1.53
+       - Expected SE (σ/√n): 1.54
+    
+    5. Hypothesis Testing:
+       - Null Hypothesis (H0): μ = 77.38
+       - Alternative Hypothesis (H1): μ ≠ 77.38
+       - At 5% significance: Fail to reject H0
+       - At 1% significance: Fail to reject H0
+    
+    6. Confidence Intervals:
+           - 90% CI: (74.50, 79.01) ±2.25
+       - 95% CI: (74.07, 79.44) ±2.68
+       - 99% CI: (73.23, 80.28) ±3.53
+
+    7. Correlation Analysis:
+       - Pearson Correlation Coefficient: 0.0484
+       - p-value: 0.7636
+       - Interpretation: Not significant
+    
+    8. Regression Analysis:
+       a. Marks on Study Hours:
+          - Equation: Marks = 74.91 + 0.14 * Study_Hours
+          - R-squared: 0.0023
+       
+       b. Study Hours on Marks:
+          - Equation: Study_Hours = 12.02 + 0.02 * Marks
+    
+    9. Prediction Example:
+       - For 15 study hours: Predicted marks = 77.0
+    
+    10. Significance Tests:
+        - Correlation coefficient is not significantly different from zero
+        - Regression slope is not significantly different from zero
+    
+    ==============================================================
+    Note: All plots have been saved as PNG files in the working directory.
+    
