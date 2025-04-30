@@ -3,6 +3,14 @@
 
 This repository contains a statistical analysis of the relationship between students' study hours and their academic performance (marks). The analysis follows a structured approach addressing 15 key statistical concepts and techniques.
 
+## Team Members (Contributors)
+- Thanish Chinnappa KC
+- Likhith V
+- Sahil Patil
+- Sudareshwar S
+- Samith Shivakumar
+- Souharda Mandal
+
 ## Table of Contents
 - [Libraries Used](#libraries-used)
 - [Analysis Questions](#analysis-questions)
