@@ -135,11 +135,11 @@ Evaluates the significance of the regression slope:
 
 ## Present Case outputs
 - Regression Lines
-<img src="/OutputImages/regression_lines.png" alt="Regression Lines" width="150">
+<img src="/OutputImages/regression_lines.png" alt="Regression Lines" width="600">
 - Sampling Distributions
-<img src="/OutputImages/sampling_distribution.png" alt="Sampling Distribution" width="150">
+<img src="/OutputImages/sampling_distribution.png" alt="Sampling Distribution" width="600">
 - Study Hours vs Marks
-<img src="/OutputImages/study_hours_vs_marks.png" alt="Study Hours vs Marks" width="150">
+<img src="/OutputImages/study_hours_vs_marks.png" alt="Study Hours vs Marks" width="600">
 
 ## Output Files
 
