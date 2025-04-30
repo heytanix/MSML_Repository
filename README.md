@@ -19,6 +19,7 @@ The code utilizes several Python libraries for statistical analysis and data vis
 - **SciPy**: Implements various statistical functions and tests
 - **Statsmodels**: Offers classes and functions for statistical models and hypothesis testing
 - **Scikit-learn**: Provides machine learning algorithms for regression analysis and evaluation metrics
+! [NumPy Logo](/Assets/NumpyLogo.png)
 
 ## Analysis Questions
 
