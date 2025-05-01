@@ -116,41 +116,9 @@ The code utilizes several Python libraries for statistical analysis and data vis
 - Compared the p-value to α=0.05 and α=0.01 to determine significance.
 - Presented results and conclusions in a formatted text output.
 
-## Present Case outputs
-- Regression Lines
-<img src="/OutputImages/regression_lines.png" alt="Regression Lines" width="600">
-- Sampling Distributions
-<img src="/OutputImages/sampling_distribution.png" alt="Sampling Distribution" width="600">
-- Study Hours vs Marks
-<img src="/OutputImages/study_hours_vs_marks.png" alt="Study Hours vs Marks" width="600">
-
-## Output Files
-
-### 1. sampling_distribution.png
-- Visualization of the sampling distribution of sample means
-- Shows histogram with density curve
-- Demonstrates how sample means distribute approximately normally
-- Illustrates the Central Limit Theorem
-
-### 2. study_hours_vs_marks.png
-- Scatter plot showing the relationship between study hours and marks
-- Each point represents a student's study time and corresponding marks
-- Helps visualize any patterns or trends in the data
-- Shows the correlation between the two variables
-
-### 3. regression_lines.png
-- Two side-by-side plots showing different regression models:
-  - Left: Predicting marks based on study hours
-  - Right: Predicting study hours based on marks
-- Includes regression equations and fitted lines
-- Helps understand the predictive relationship between variables
-
-### 4. analysis_report.txt
-- Comprehensive summary of all statistical findings
-- Includes numerical results from all 15 questions
-- Provides parameter values, test statistics, p-values, and interpretations
-- Serves as a complete record of the statistical analysis
-
+## Outputs
+- To be viewed within app.ipynb
+- 
 ## Conclusion
 
 This code demonstrates a comprehensive statistical analysis workflow, from sampling theory to hypothesis testing and regression analysis. The analysis reveals important insights about the relationship between study hours and academic performance, supported by appropriate statistical tests and visualizations.
