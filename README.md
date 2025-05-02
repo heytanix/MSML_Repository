@@ -126,3 +126,9 @@ The code utilizes several Python libraries for statistical analysis and data vis
 ## Conclusion
 
 This code demonstrates a comprehensive statistical analysis workflow, from sampling theory to hypothesis testing and regression analysis. The analysis reveals important insights about the relationship between study hours and academic performance, supported by appropriate statistical tests and visualizations.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+© 2025 Thanish Chinnappa K.C., Likhith, Sahil Vinod Patil , Sundareshwar S, Samith, Souharda Mandal.
