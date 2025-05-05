@@ -2,6 +2,10 @@
 # Mathematics & Statistics for Machine learning - (Experential Learning) - TEAM 3
 
 This repository contains a statistical analysis of the relationship between students' study hours and their academic performance (marks). The analysis follows a structured approach addressing 15 key statistical concepts and techniques.
+## We strongly recommend cloning the repository using
+```bash
+git clone https://github.com/heytanix/MSML_Repository.git
+```
 
 ## Team Members (Contributors)
 - Thanish Chinnappa KC
