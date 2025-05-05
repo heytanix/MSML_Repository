@@ -6,6 +6,7 @@ This repository contains a statistical analysis of the relationship between stud
 ```bash
 git clone https://github.com/heytanix/MSML_Repository.git
 ```
+## Please use conv_app.py for reference only, it is not intended to run, For running use app.ipynb
 
 ## Team Members (Contributors)
 - Thanish Chinnappa KC
